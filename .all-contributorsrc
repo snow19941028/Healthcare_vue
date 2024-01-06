@@ -1,0 +1,163 @@
+{
+  "projectName": "Healthcare-Rollcall",
+  "projectOwner": "CodeForBaltimore",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "contributorsSortAlphabetically": true,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "revjtanton",
+      "name": "Jason Anton",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/6391564?v=4",
+      "profile": "http://www.jasonanton.com",
+      "contributions": [
+        "code",
+        "doc",
+        "security"
+      ]
+    },
+    {
+      "login": "ao10",
+      "name": "Ati Ok",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/14120224?v=4",
+      "profile": "https://ao10.github.io",
+      "contributions": [
+        "code",
+        "review"
+      ]
+    },
+    {
+      "login": "helro154",
+      "name": "Harry Respass",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5619637?v=4",
+      "profile": "http://www.restechsys.com",
+      "contributions": [
+        "code",
+        "review"
+      ]
+    },
+    {
+      "login": "cmavelis",
+      "name": "Cameron Avelis",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/16199008?v=4",
+      "profile": "https://github.com/cmavelis",
+      "contributions": [
+        "code",
+        "review"
+      ]
+    },
+    {
+      "login": "joffutt4",
+      "name": "joffutt4",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/10181869?v=4",
+      "profile": "https://github.com/joffutt4",
+      "contributions": [
+        "code",
+        "review"
+      ]
+    },
+    {
+      "login": "MGardner02",
+      "name": "MGardner02",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35646560?v=4",
+      "profile": "https://github.com/MGardner02",
+      "contributions": [
+        "code",
+        "review"
+      ]
+    },
+    {
+      "login": "funkybunch",
+      "name": "Mark Adkins",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/6365836?v=4",
+      "profile": "https://markadk.in/s",
+      "contributions": [
+        "code",
+        "doc",
+        "design"
+      ]
+    },
+    {
+      "login": "charlesw2004",
+      "name": "Wilner Charles",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/30778546?v=4",
+      "profile": "https://github.com/charlesw2004",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jbixon13",
+      "name": "Jason Bixon",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/32110237?v=4",
+      "profile": "http://jasonbixon.netlify.com",
+      "contributions": [
+        "code",
+        "design",
+        "infra"
+      ]
+    },
+    {
+      "login": "snyk-bot",
+      "name": "Snyk bot",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/19733683?v=4",
+      "profile": "https://snyk.io",
+      "contributions": [
+        "security"
+      ]
+    },
+    {
+      "login": "dependabot[bot]",
+      "name": "Dependabot",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/27347476?v=4",
+      "profile": "https://dependabot.com",
+      "contributions": [
+        "security"
+      ]
+    },
+    {
+      "login": "uxstephanie",
+      "name": "Stephanie",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/47190328?v=4",
+      "profile": "http://stephanie.marketing",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "c-w-allen",
+      "name": "c-w-allen",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/64177457?v=4",
+      "profile": "https://github.com/c-w-allen",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "blakenan-bellese",
+      "name": "blakenan-bellese",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/61432973?v=4",
+      "profile": "https://github.com/blakenan-bellese",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ijadams",
+      "name": "Ian Adams",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/7966226?v=4",
+      "profile": "http://ianjadams.com",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true
+}
